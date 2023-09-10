@@ -7,11 +7,7 @@ HyperVideo is a web application that allows users to view a grid list of videos 
 - [Features](#features)
 - [Demo](#demo)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -29,9 +25,6 @@ You can see a live demo of the HyperVideo app [here](#).
 
 To run this project locally, follow the instructions below.
 
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) installed on your system.
 
 ### Installation
 
